@@ -27,11 +27,11 @@ The application manages dynamic content with the following core features:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Eslam358/test_Elevate-.git 
+git clone https://github.com/Eslam358/test_Elevate.git 
 ```
 
 2️⃣ Navigate to the project directory
-cd test_Elevate-
+cd test_Elevate
 
 3️⃣ Install dependencies
 npm install
